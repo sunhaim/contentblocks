@@ -1,3 +1,3 @@
-## Content Blocks for Evolution CMS
+## Page Builder for Evolution CMS
 
 Moved here: https://github.com/mnoskov/pagebuilder
